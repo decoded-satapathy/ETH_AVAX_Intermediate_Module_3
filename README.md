@@ -43,8 +43,8 @@ Once you are on the Remix website, follow these steps:
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Metacrafter Om Satapathy  
+[@OmSatapathy4](https://twitter.com/OmSatapathy4)
 
 ## License
 
